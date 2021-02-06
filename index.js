@@ -35,19 +35,19 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
-            + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
+            + 'FN:BTR-XBOT\n' 
+            + 'ORG: BTR-XBot;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6282313021398:+62 823-1302-1398\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '#'
+prefix = ','
 limitawal = 30
 memberlimit = 5
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+const ownerNumber = ["6282313021398@s.whatsapp.net","62895412691100@s.whatsapp.net"] 
 /************************************/
 
        
